@@ -1,0 +1,1 @@
+ /Users/maik2002/Documentos\ -\ MacBook\ Air\ de\ Miguel/Interfaces/Proyecto/Ear_ID/settings_app/.dart_tool/flutter_build/31eff5bfa2824f63e01297053e704da2/native_assets.yaml: 
