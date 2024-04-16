@@ -1,1 +1,0 @@
- /Users/maik2002/Documentos\ -\ MacBook\ Air\ de\ Miguel/Interfaces/Proyecto/Configuration_App/settings_app/.dart_tool/flutter_build/a0a73fd721d3f13a1796482b37604d5b/native_assets.yaml: 
