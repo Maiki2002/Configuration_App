@@ -68,7 +68,7 @@ class CardInterface1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 140,
+      height: 160,
       padding: EdgeInsets.only(right: 12.0, left: 12.0),
       width: 30,
       child: Card(
